@@ -5,7 +5,7 @@ Home: https://github.com/haesleinhuepf/napari-brightness-contrast
 
 Package license: BSD-3-Clause
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-brightness-contrast-feedstock/blob/master/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-brightness-contrast-feedstock/blob/main/LICENSE.txt)
 
 Summary: Advanced layer visualization options
 
@@ -15,8 +15,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=15265&branchName=master">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/napari-brightness-contrast-feedstock?branchName=master">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=15265&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/napari-brightness-contrast-feedstock?branchName=main">
       </a>
     </td>
   </tr>
