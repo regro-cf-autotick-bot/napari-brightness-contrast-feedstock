@@ -1,5 +1,5 @@
 {% set name = "napari-brightness-contrast" %}
-{% set version = "0.1.6" %}
+{% set version = "0.1.7" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/napari-brightness-contrast-{{ version }}.tar.gz
-  sha256: 9d47c1e9567f7b9b8900674a29d0dd1e3627ab8444114130a1467778859d81d3
+  sha256: 981c374c59da8781b1df6f4bf35fa001d83e63018ed7e41efe1a9c0dc94fdddc
 
 build:
   noarch: python
